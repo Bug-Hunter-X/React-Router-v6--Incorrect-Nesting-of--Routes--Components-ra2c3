@@ -1,0 +1,1 @@
+This example demonstrates a common error in React Router v6: incorrectly nesting `<Routes>` components.  Nesting `<Routes>` components in this way causes the inner routes to override the outer ones, leading to unexpected routing behavior.  The solution shows how to correctly structure routes to ensure proper functionality.
